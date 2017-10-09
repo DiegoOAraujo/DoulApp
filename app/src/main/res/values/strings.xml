@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DoulApp</string>
+    <string name="action_settings">Configurações</string>
+    <string name="titulo_dpp">Quando foi o Primeiro dia da sua última menstruação?</string>
+    <string name="action_favorite">Favoritos</string>
+    <string name="action_search">Pesquisar</string>
+</resources>
